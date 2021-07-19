@@ -1,2 +1,2 @@
 # titanic
- EDA and Classification 
+ EDA and Classification Model 
